@@ -2,6 +2,8 @@
 
 SmartClean is a google sheets™ data cleaning tool that cleans multiple data issues all at once in one click.
 
+With SmartClean, you can easily clean multiple data issues all at once in one click, whether you are cleaning large or small data. It works seamlessly with imported, pasted, and manually entered data.
+
 in SmartClean you can do bulk data cleaning in large datasets with multiple data issues in just 1 click so easily, it solves your problem cleaning large datasets
 with multiple of data issues and it also solves your problem finding errors in large datasets with hundreds or thousands of rows just by clicking analyze to scan the erros or issues of your data. 
 
