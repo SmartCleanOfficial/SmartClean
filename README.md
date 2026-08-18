@@ -8,7 +8,7 @@ with multiple of data issues and it also solves your problem finding errors in l
 > ⚠️ **Reminder:** The SmartClean data issue scanner can only detect supported data issues. Please refer to the feature list below for compatibility.
 
 ## 🚀 Key Features (Data Cleanup Tools)
-* **Data Issue Scanner & Analyzer:** Instantly scans your entire spreadsheet dataset to detect multiple formatting anomalies.
+* **Data Issue Scanner:** Instantly scans your entire spreadsheet dataset to detect multiple formatting anomalies.
 * **Trim Leading and Trailing Spaces:** Automatically remove extra whitespace at the beginning or end of cells that break your VLOOKUP or XLOOKUP.
 * **Remove Extra Spaces:** Collapse multiple consecutive spaces inside a cell down to a single space.
 * **Standardize Text (Proper Case):** Automatically capitalize the first letter of each word (Google Sheets capitalize tool) to fix names, addresses, or product SKUs.
